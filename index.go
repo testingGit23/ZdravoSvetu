@@ -5,7 +5,7 @@ import "fmt"
 func printaj() {
 	//Da se napravat fukncii kako fmt.Println(funkcijaA())
 	//Dino
-	//Gligor
+	//Gligor aj utre
 	//Darko
 	fmt.Println("example")
 }
