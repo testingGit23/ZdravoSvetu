@@ -1,8 +1,8 @@
 package main
 
 import "fmt"
-import "../ZdravoSvetu/pkg"
-import "../ZdravoSvetu/pkg3"
+import "./pkg"
+import "./pkg3"
 
 func printaj() {
 	//Da se napravat fukncii kako fmt.Println(funkcijaA())
