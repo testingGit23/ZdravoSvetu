@@ -8,6 +8,7 @@ func printaj() {
 	fmt.Println(Soberi(5, 10))
 	fmt.Println(Mnozhi(5, 10))
 	fmt.Println(Deli(100, 5))
+	fmt.Println(SoberiNizaa(2, 3))
 	fmt.Println("example")
 }
 
