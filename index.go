@@ -22,5 +22,6 @@ func main() {
 	fmt.Println("2d: ", z)
 
 	fmt.Println(SoberiNizaa(2, 3))
+	fmt.Println(SoberiFloati(2.3, 5.4))
 	fmt.Println("example")
 }
