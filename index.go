@@ -1,11 +1,11 @@
 package main
 
 import "fmt"
-import "../ZdravoSvetu/soberiDvaBroja"
+import osnovniFunkcii "../ZdravoSvetu/pkg"
 
 func printaj() {
 	//Da se napravat fukncii kako fmt.Println(funkcijaA())
-	fmt.Println(soberiDvaBroja.Izvrshi(5, 10))
+	fmt.Println(osnovniFunkcii.SoberiDvaBroja(5, 10))
 	//Gligor aj utre
 	//Darko
 	fmt.Println("example")

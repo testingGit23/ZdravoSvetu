@@ -2,6 +2,6 @@
 
 package soberiDvaBroja
 
-func Izvrshi(a, b int) int {
+func SoberiDvaBroja(a, b int) int {
 	return a + b
 }
