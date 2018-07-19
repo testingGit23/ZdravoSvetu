@@ -10,6 +10,7 @@ func printaj() {
 	//Gligor aj utre
 	fmt.Println(dzalepackage.DeliDvaBroja(100, 5))
 	fmt.Println("example")
+	fmt.Println("Djale")
 }
 
 func main() {
