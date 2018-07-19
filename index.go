@@ -13,6 +13,13 @@ func main() {
 	for i := 0; i < 2; i++ {
 		fmt.Println(twoD[i])
 	}
+	z := 0
+	for i := 0; i < 2; i++ {
+		for j := 0; j < 3; j++ {
+			z += twoD[i][j]
+		}
+	}
+	fmt.Println("2d: ", z)
 
 	fmt.Println(SoberiNizaa(2, 3))
 	fmt.Println("example")
